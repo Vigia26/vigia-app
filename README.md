@@ -6,7 +6,7 @@ Este repositorio solo publica los instaladores. No contiene el código fuente.
 
 ## Descargar
 
-Abre [Releases](https://github.com/Azurtilo/vigia-app/releases), elige la versión más reciente y descarga el archivo `.apk` en tu teléfono Android 8 o superior.
+Abre [Releases](https://github.com/Vigia26/vigia-app/releases), elige la versión más reciente y descarga el archivo `.apk` en tu teléfono Android 8 o superior.
 
 Crea tu cuenta en la app o en el [portal web](https://vigia-dfeca.web.app); sirve en ambos.
 
